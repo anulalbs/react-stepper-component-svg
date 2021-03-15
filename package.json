@@ -4,6 +4,12 @@
     "description": "simple react stepper component with svg",
     "main": "./lib/react_stepper_component.js",
     "license": "MIT",
+    "keywords": [
+        "react",
+        "stepper",
+        "svg",
+        "responsive stepper"
+      ],
     "repository": {
         "type": "git",
         "url": "https://github.com/anulalbs/react-stepper-component-svg.git"
