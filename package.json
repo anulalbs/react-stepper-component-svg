@@ -1,12 +1,12 @@
 {
     "name": "react-stepper-component-with-svg",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "simple react stepper component with svg",
     "main": "./lib/react_stepper_component.js",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/anulalbs/react-stepper-component.git"
+        "url": "https://github.com/anulalbs/react-stepper-component-svg.git"
     },
     "publishConfig": {
       "registry": "https://npm.pkg.github.com/anulalbs"
