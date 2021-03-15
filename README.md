@@ -19,10 +19,10 @@ React Stepper Component is a simple yet customizable component using SVG that wi
 
 # Installation
 
-    npm install --save react-stepper-component
+    npm install --save react-stepper-component-svg
 
 # Usage
-    import  Stepper  from 'react-stepper-component';
+    import  Stepper  from 'react-stepper-component-svg';
 
     <Stepper onClickCallback={callbackFunctionName} stepperData={stepperData}/>
 
