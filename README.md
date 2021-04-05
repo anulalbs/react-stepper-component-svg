@@ -4,7 +4,7 @@ React Stepper Component is a simple yet customizable component using SVG that wi
 
 # Screenshot
 
-![screenshot](/images/screenshot.png)
+![screenshot](https://res.cloudinary.com/deaozbc9u/image/upload/v1617632454/screeshot_ik655w.png)
 
 # Features!     
 
